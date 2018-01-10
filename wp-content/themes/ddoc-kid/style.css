@@ -1,0 +1,13 @@
+/*
+Theme Name: DDOC Kid
+Theme URI: 
+Description: Child Theme For WP Bootstrap Starter
+Author: Augustine Chris Dev
+Template: wp-bootstrap-starter
+Version: 0.1.0
+*/
+
+@import url('../wp-bootstrap-starter/style.css');
+
+.navbar-brand a{position:absolute; top:0; left:0; width:100%; z-index:12; text-align:center}
+.navbar-brand a img {max-width: 12%; vertical-align:middle; border-style:none;}
